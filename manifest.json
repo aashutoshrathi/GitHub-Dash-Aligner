@@ -4,11 +4,12 @@
     "manifest_version": 2,
     "description": "Injects switch button in GitHub",
     "homepage_url": "http://aashutoshrathi.co",
-    "background": {
-        "scripts": [
-            "background.js"
-        ]
-    },
+    "content_scripts": [
+        {
+          "matches": ["*://*.github.com/*"],
+          "js": ["switch.js"]
+        }
+    ],
 
     "icons": {
       "128": "img/icon-128x128.png"
