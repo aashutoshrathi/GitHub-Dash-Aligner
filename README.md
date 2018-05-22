@@ -2,6 +2,7 @@
 
 [<img src="img/icon-128x128.png" align="right" width="100">](https://github.com/aashutoshrathi/GitHub-Dash-Aligner)
 
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
@@ -16,6 +17,16 @@ No worries, it is just one toggle away. :tada:.
 
 
 ## Installation
+
+### Firefox Users
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Firefox_Logo%2C_2017.svg/2000px-Firefox_Logo%2C_2017.svg.png" align="right" width="100">](https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/)
+
+Download it from Store: https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/
+
+Please leave feedback ✍️
+
+### Chrome Users
 
  - Get it locally -
    ```sh
