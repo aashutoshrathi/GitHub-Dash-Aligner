@@ -1,6 +1,6 @@
 {
     "name": "GitHub Dashboard Fix",
-    "version": "0.1.1",
+    "version": "1.1.0",
     "manifest_version": 2,
     "description": "Injects switch button in GitHub",
     "homepage_url": "http://aashutoshrathi.co",
