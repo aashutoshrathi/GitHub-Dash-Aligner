@@ -2,6 +2,7 @@
 
 [<img src="img/icon-128x128.png" align="right" width="100">](https://github.com/aashutoshrathi/GitHub-Dash-Aligner)
 
+
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
@@ -17,21 +18,20 @@ No worries, it is just one toggle away. :tada:.
 
 ## Installation
 
- - Get it locally -
-   ```sh
-   $ git clone https://github.com/aashutoshrathi/GitHub-Dash-Aligner.git
-   ```
+### Firefox Users:
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Firefox_Logo%2C_2017.svg/2000px-Firefox_Logo%2C_2017.svg.png" align="right" width="90">](https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/)
+
+ - Download it from Store: https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/
 
    **OR**
+   
+   Check Firefox Development Branch [here](https://github.com/aashutoshrathi/GitHub-Dash-Aligner/tree/firefox)
 
-   Download the latest version here: [GitHub Dashboard Switch](https://github.com/aashutoshrathi/GitHub-Dash-Aligner/archive/master.zip)
-
- - Go to `chrome://extensions/`.
- - Click on Load Unpacked Extension and Open/Select the folder.
-
-
+ - **Please leave feedback and ratings** ✍️
  - To test it, go to [GitHub](https://www.github.com).
  - Switch Back to Right Hand Mode :rocket:.
+
 
 
 ##### Note
