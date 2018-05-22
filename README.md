@@ -18,17 +18,20 @@ No worries, it is just one toggle away. :tada:.
 
 ## Installation
 
-### Firefox Users
+### Firefox Users:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Firefox_Logo%2C_2017.svg/2000px-Firefox_Logo%2C_2017.svg.png" align="right" width="90">](https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/)
 
-Download it from Store: https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/
+ - Download it from Store: https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/
 
-Check Firefox Development Branch [here](https://github.com/aashutoshrathi/GitHub-Dash-Aligner/tree/firefox)
+   **OR**
+   Check Firefox Development Branch [here](https://github.com/aashutoshrathi/GitHub-Dash-Aligner/tree/firefox)
 
-**Please leave feedback** ✍️
+ - **Please leave feedback and ratings** ✍️
+ - To test it, go to [GitHub](https://www.github.com).
+ - Switch Back to Right Hand Mode :rocket:.
 
-### Chrome Users
+### Chrome Users:
 
  - Get it locally -
    ```sh
