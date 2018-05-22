@@ -25,6 +25,7 @@ No worries, it is just one toggle away. :tada:.
  - Download it from Store: https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/
 
    **OR**
+   
    Check Firefox Development Branch [here](https://github.com/aashutoshrathi/GitHub-Dash-Aligner/tree/firefox)
 
  - **Please leave feedback and ratings** ✍️
