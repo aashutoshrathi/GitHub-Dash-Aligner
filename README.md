@@ -20,11 +20,11 @@ No worries, it is just one toggle away. :tada:.
 
 ### Firefox Users
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Firefox_Logo%2C_2017.svg/2000px-Firefox_Logo%2C_2017.svg.png" align="right" width="100">](https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Firefox_Logo%2C_2017.svg/2000px-Firefox_Logo%2C_2017.svg.png" align="right" width="90">](https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/)
 
 Download it from Store: https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/
 
-Please leave feedback ✍️
+**Please leave feedback** ✍️
 
 ### Chrome Users
 
