@@ -20,17 +20,19 @@ function injectButtons() {
       nav.appendChild(db);
     }
     
-    document.getElementById("toggle-btn").addEventListener("click", changeSide);
+    document.getElementById("toggle-btn").addEventListener("change", changeSide);
+    //changeSide();
   }  
 }
 
 // Flipping Dashboard Sides
 function changeSide() {
+  const toggleBtn = document.getElementById('toggle-btn');
   let side = document.getElementsByClassName('dashboard-sidebar')[0].style.float;
-  if (side === "left" || side === "") {
+  if (toggleBtn.checked) {
     document.getElementsByClassName('dashboard-sidebar')[0].style.float = "right";
   }
-  else if (side === "right") {
+  else {
     document.getElementsByClassName('dashboard-sidebar')[0].style.float = "left";
   }
   console.log(side);  
