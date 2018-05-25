@@ -19,9 +19,9 @@ function injectButtons() {
     if (nav.querySelectorAll('label').length < 1) {
       nav.appendChild(db);
     }
-    
     document.getElementById("toggle-btn").addEventListener("change", changeSide);
-    //changeSide();
+    document.getElementById('toggle-btn').checked = true;
+    changeSide();
   }  
 }
 
