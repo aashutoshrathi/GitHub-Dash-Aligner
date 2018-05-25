@@ -21,7 +21,8 @@ function injectButtons() {
     }
     
     document.getElementById("toggle-btn").addEventListener("change", changeSide);
-    //changeSide();
+    document.getElementById('toggle-btn').checked = true;
+    changeSide();
   }  
 }
 
