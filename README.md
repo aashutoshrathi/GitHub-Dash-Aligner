@@ -58,7 +58,8 @@ If you can't find the button on the top of the page, make sure that Developer mo
 ### Author
 
 [Aashutosh Rathi](https://github.com/aashutoshrathi)
- [<img src="https://image.flaticon.com/icons/svg/185/185961.svg" width="35" padding="10">](https://twitter.com/AashutoshRathi)
+
+[<img src="https://image.flaticon.com/icons/svg/185/185961.svg" width="35" padding="10">](https://twitter.com/AashutoshRathi)
 [<img src="https://image.flaticon.com/icons/svg/185/185964.svg" width="35" padding="10">](https://linkedin.com/in/aashutoshrathi)
 [<img src="https://image.flaticon.com/icons/svg/185/185981.svg" width="35" padding="10">](https://www.facebook.com/aashutoshrathi)
 [<img src="https://image.flaticon.com/icons/svg/985/985680.svg" width="35" padding="10">](https://www.paypal.me/AashutoshRathi)
