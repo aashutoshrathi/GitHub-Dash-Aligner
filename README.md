@@ -3,7 +3,9 @@
 <h4 align="center">New update of GitHub moved Dashboard to Left Hand side, do you miss the right hand side one?
 No worries, it is just one toggle away.</h4>
 
+
 <p align="center">
+<img src="https://img.shields.io/amo/d/github-dashboard-fix.svg?style=for-the-badge" align="center">
 <img src="https://img.shields.io/github/repo-size/aashutoshrathi/GitHub-Dash-Aligner.svg?style=for-the-badge" align="center">
 <img src="http://forthebadge.com/images/badges/uses-js.svg" align="center">
 <img src="http://forthebadge.com/images/badges/makes-people-smile.svg" align="center">
